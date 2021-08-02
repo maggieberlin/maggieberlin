@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maggieberlin
+- 👋 Hi, I’m Dummy Profile 
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on ML/CV
